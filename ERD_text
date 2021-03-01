@@ -1,0 +1,45 @@
+Artists
+-
+artist_id varchar pk FK >- Genres.artist_id
+artist_name varchar
+popularity int
+
+Songs
+-
+song_id varchar pk FK >- Genres.song_id
+genre_id varchar FK >- Genres.genre_id
+artist_id varchar FK >- Artists.artist_id
+song_name varchar
+acousticness int
+danceability int
+duration_ms int
+energy int
+instrumentalness int
+key int
+liveness int
+loudness int
+popularity int
+release_date date
+speechiness int
+tempo int
+valence int
+year date
+
+Genres
+-
+genre_id varchar pk
+artist_id varchar
+song_id varchar
+genre_name varchar
+acousticness int
+danceability int
+duration_ms int
+energy int
+instrumentalness int
+liveness int
+loudness int
+speechiness int
+tempo int
+valence int
+popularity int
+key int
