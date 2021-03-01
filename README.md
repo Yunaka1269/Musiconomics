@@ -30,7 +30,7 @@ We decided on this topic
 
 
 ## Database
-- Kesh
+![Spotify Artist and Song ERD]()
 
 ## Data Cleaning and Analysis
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
