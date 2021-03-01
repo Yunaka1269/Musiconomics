@@ -30,7 +30,7 @@ We decided on this topic
 
 
 ## Database
-- Kesh
+![Spotify Artist and Song ERD](https://github.com/zanelouis/Final_Project/blob/Keshs_branch/QuickDBD-export.png)
 
 ## Data Cleaning and Analysis
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
