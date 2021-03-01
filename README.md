@@ -20,7 +20,11 @@ We decided on this topic due to all team members' mutual interest in music and c
 
 
 ## Machine Learning Model 
-- Yu
+- apply following machine learning models to determine predictive accuracy
+  - logistic regression
+  - SVM
+  - random forest
+  - neural network
 
 
 ## Database
