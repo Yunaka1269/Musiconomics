@@ -8,7 +8,7 @@ We decided on this topic due to all team members' mutual interest in music and c
 
 
 ## Data Sources
-- Data from data_by_artist.csv, data_by_genres.csv, data_by_year.csv and data_w_genres.csv 
+Data from Spotify include files: data_by_artist.csv, data_by_genres.csv, data_by_year.csv and data_w_genres.csv 
 
 
 ## Questions
@@ -20,7 +20,8 @@ We decided on this topic due to all team members' mutual interest in music and c
 
 
 ## Machine Learning Model 
-- apply following machine learning models to determine predictive accuracy
+- Apply the following machine learning models to determine:
+  - predictive accuracy
   - logistic regression
   - SVM
   - random forest
