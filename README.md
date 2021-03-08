@@ -1,6 +1,6 @@
 # Final_Project: Musiconomics
 
-Please visit this [link to the Google Slides](https://docs.google.com/presentation/d/1GsNiNTZ2kjRoIfxEMEvtTLtWVcPUZem3rkgMs_sG2k0/edit?usp=sharing?publish=yes "link to Google Slides") for presentation content.
+Please visit this [link to the Google Slides](https://docs.google.com/presentation/d/1p_Z2Gktkt6Z4mRQBZBdKG34dpdG-liZxhFf-hvlsZvU/edit?usp=sharing?publish=yes "link to Google Slides") for presentation content.
 
 ## Topic 
 The topic we have selected for the final project is looking into how music data has evolved over the past 100 years. The purpose of this analysis is to understand and examine different attributes of music, including genres, energy, loudness, tempo, and danceability, to name a few. 
