@@ -6,7 +6,7 @@ Please visit this [link to the Google Slides](https://docs.google.com/presentati
 The topic we have selected for the final project is looking into how music data has evolved over the past 100 years. The purpose of this analysis is to understand and examine different attributes of music, including genres, energy, loudness, tempo, and danceability, to name a few. 
 
 ## Reason
-We decided on this topic due to all team members' mutual interest in music and curiousity on musical trends over the decades. Further, we also identified that the data that was accessible to us included many variables and factors to perform deeper analysis on. 
+We decided on this topic due to all team members' mutual interest in music and curiosity on musical trends over the decades. Further, we also identified that the data that was accessible to us included many variables and factors to perform deeper analysis on. 
 
 
 ## Data Sources
@@ -57,7 +57,7 @@ The approach taken for setting up the database is as follows -
 3) Values were fetched from the SQLite tables using the fetchall() function
 4) Join was created between the two tables and will need to be analyzed further to see the impact of the join and if the type of join needs to be modified to get the most out of combining the two datasets
 
-### Futher Analysis Needed
+### Further Analysis Needed
 Joins - In the coming week, further analysis needs to be performed to understand the impact of the join created and see if the type of join or the data that is being joined with the music_genre data needs to be revised
 
 
