@@ -1,6 +1,6 @@
 # Final_Project: Musiconomics
 
-Please visit [Link To Google Slides](https://docs.google.com/presentation/d/1GsNiNTZ2kjRoIfxEMEvtTLtWVcPUZem3rkgMs_sG2k0/edit?usp=sharing?publish=yes "Link to Google Slides") for presentation content.
+Please visit [link to Google Slides](https://docs.google.com/presentation/d/1GsNiNTZ2kjRoIfxEMEvtTLtWVcPUZem3rkgMs_sG2k0/edit?usp=sharing?publish=yes "link to Google Slides") for presentation content.
 
 ## Topic 
 The topic we have selected for the final project is looking into how music data has evolved over the past 100 years. The purpose of this analysis is to understand and examine different attributes of music, including genres, energy, loudness, tempo, and danceability, to name a few. 
@@ -66,4 +66,7 @@ SciKitLearn is the ML library we'll be using to create a classifier.
 
 
 ## Dashboard
-We intend to use Tableau as our dashboard to present the data visualizations created throughout the course of this project.  
+We intend to use Tableau as our dashboard, with additional visualizations from Python libraries, to present the data visualizations created throughout the course of this project.  The storyboard of the dashboard is included in the Google Slides presentation linked above. 
+- Tools Used: Tableau, Python Matplotlib, Seaborn, SciKitLean Libraries
+- Interactive Elements: Filtering by genre to display related audio feature correlations, filter within the pop genre musical keys
+
