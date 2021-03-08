@@ -8,7 +8,7 @@ We decided on this topic due to all team members' mutual interest in music and c
 
 
 ## Data Sources
-- Data from data_by_artist.csv, data_by_genres.csv, data_by_year.csv and data_w_genres.csv 
+Data from Spotify include files: data_by_artist.csv, data_by_genres.csv, data_by_year.csv and data_w_genres.csv 
 
 
 ## Questions
@@ -20,7 +20,12 @@ We decided on this topic due to all team members' mutual interest in music and c
 
 
 ## Machine Learning Model 
-- Yu
+- Apply the following machine learning models to determine:
+  - predictive accuracy
+  - logistic regression
+  - SVM
+  - random forest
+  - neural network
 
 
 ## Database
@@ -41,6 +46,17 @@ We will be housing the data in a SQL database (Postgres) and we hope to integrat
 
 ## Data Cleaning and Analysis
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+
+After the initial design analysis was performed on the data, and once the ERD was set up, the approach was altered based on the availability of a more viable option -
+
+The approach taken for setting up the database is as follows - 
+1) Analyzed different databases available - Postgres and SQLite were the two databases that were considered and after analyzing the data size and flexibility, I decided to proceed with the SQLite approach as it offered more flexibility and the size of the data isn't too large to necessitate Postgres
+2) Two separate tables containing music genre data and influencer data were created and the csv data loaded into the tables through Pandas DataFrames
+3) Values were fetched from the SQLite tables using the fetchall() function
+4) Join was created between the two tables and will need to be analyzed further to see the impact of the join and if the type of join needs to be modified to get the most out of combining the two datasets
+
+### Futher Analysis Needed
+Joins - In the coming week, further analysis needs to be performed to understand the impact of the join created and see if the type of join or the data that is being joined with the music_genre data needs to be revised
 
 
 ## Machine Learning
