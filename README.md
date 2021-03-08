@@ -62,11 +62,11 @@ Joins - In the coming week, further analysis needs to be performed to understand
 
 
 ## Machine Learning
-SciKitLearn is the ML library we'll be using to create a classifier. 
+Scikit-learn is the ML library we'll be using to create a classifier. 
 
 
 ## Dashboard
 We intend to use Tableau as our dashboard, with additional visualizations from Python libraries, to present the data visualizations created throughout the course of this project.  The storyboard of the dashboard is included in the Google Slides presentation linked above. 
-- Tools Used: Tableau, Python Matplotlib, Seaborn, SciKitLean Libraries
+- Tools Used: Tableau, Python Matplotlib, Seaborn, Scikit-learn Libraries
 - Interactive Elements: Filtering by genre to display related audio feature correlations, filter within the pop genre musical keys
 
