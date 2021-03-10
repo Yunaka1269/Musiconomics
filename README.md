@@ -1,12 +1,12 @@
 # Final_Project: Musiconomics
 
-Please visit this [link to the Google Slides](https://docs.google.com/presentation/d/1GsNiNTZ2kjRoIfxEMEvtTLtWVcPUZem3rkgMs_sG2k0/edit?usp=sharing?publish=yes "link to Google Slides") for presentation content.
+Please visit this [link to the Google Slides](https://docs.google.com/presentation/d/1p_Z2Gktkt6Z4mRQBZBdKG34dpdG-liZxhFf-hvlsZvU/edit?usp=sharing?publish=yes "link to Google Slides") for presentation content.
 
 ## Topic 
 The topic we have selected for the final project is looking into how music data has evolved over the past 100 years. The purpose of this analysis is to understand and examine different attributes of music, including genres, energy, loudness, tempo, and danceability, to name a few. 
 
 ## Reason
-We decided on this topic due to all team members' mutual interest in music and curiousity on musical trends over the decades. Further, we also identified that the data that was accessible to us included many variables and factors to perform deeper analysis on. 
+We decided on this topic due to all team members' mutual interest in music and curiosity on musical trends over the decades. Further, we also identified that the data that was accessible to us included many variables and factors to perform deeper analysis on. 
 
 
 ## Data Sources
@@ -57,16 +57,16 @@ The approach taken for setting up the database is as follows -
 3) Values were fetched from the SQLite tables using the fetchall() function
 4) Join was created between the two tables and will need to be analyzed further to see the impact of the join and if the type of join needs to be modified to get the most out of combining the two datasets
 
-### Futher Analysis Needed
+### Further Analysis Needed
 Joins - In the coming week, further analysis needs to be performed to understand the impact of the join created and see if the type of join or the data that is being joined with the music_genre data needs to be revised
 
 
 ## Machine Learning
-SciKitLearn is the ML library we'll be using to create a classifier. 
+Scikit-learn is the ML library we'll be using to create a classifier. 
 
 
 ## Dashboard
 We intend to use Tableau as our dashboard, with additional visualizations from Python libraries, to present the data visualizations created throughout the course of this project.  The storyboard of the dashboard is included in the Google Slides presentation linked above. 
-- Tools Used: Tableau, Python Matplotlib, Seaborn, SciKitLean Libraries
+- Tools Used: Tableau, Python Matplotlib, Seaborn, Scikit-learn Libraries
 - Interactive Elements: Filtering by genre to display related audio feature correlations, filter within the pop genre musical keys
 
