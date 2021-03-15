@@ -18,18 +18,12 @@ include files: data_by_artist.csv, data_by_genres.csv, data_by_year.csv and data
 ## Questions
 - What are the correlations between popularity and audio features?
 - Does the duration of songs change over the years?
-- What artist are most popular?
 
 # Technologies Used
 
 
 ## Machine Learning Model 
-- Apply the following machine learning models to determine:
-  - predictive accuracy
-  - logistic regression
-  - SVM
-  - random forest
-  - neural network
+- Apply linear regression model on the eight distinct audio features (danceability, energy, valence, loudness, acousticness, instrumentalness, liveness, speechiness).
 
 
 ## Database
