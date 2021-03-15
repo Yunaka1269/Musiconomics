@@ -10,24 +10,23 @@ We decided on this topic due to all team members' mutual interest in music and c
 
 
 ## Data Sources
-Data from Spotify include files: data_by_artist.csv, data_by_genres.csv, data_by_year.csv and data_w_genres.csv 
+Data from Kaggle [linked here](https://www.kaggle.com/ironicninja/icm-problem-d "linked here") titled "The Influence of Music, Spotify and AllMusic Data" includes files:
+- music_genre.csv
+- influence_df.csv
+- prediction.csv
+- data_by_artist.csv
+- data_by_year.csv 
 
 
 ## Questions
-- What are the correlations between popularity and audio features?
-- Does the duration of songs change over the years?
-- What artist are most popular?
+- What are the correlations between genre and audio features over the years?
+- 
 
 # Technologies Used
 
 
 ## Machine Learning Model 
-- Apply the following machine learning models to determine:
-  - predictive accuracy
-  - logistic regression
-  - SVM
-  - random forest
-  - neural network
+- Apply linear regression model on the eight distinct audio features (danceability, energy, valence, loudness, acousticness, instrumentalness, liveness, speechiness).
 
 
 ## Database
@@ -62,11 +61,11 @@ Joins - In the coming week, further analysis needs to be performed to understand
 
 
 ## Machine Learning
-SciKitLearn is the ML library we'll be using to create a classifier. 
+Scikit-learn is the ML library we'll be using to create a classifier. 
 
 
 ## Dashboard
 We intend to use Tableau as our dashboard, with additional visualizations from Python libraries, to present the data visualizations created throughout the course of this project.  The storyboard of the dashboard is included in the Google Slides presentation linked above. 
-- Tools Used: Tableau, Python Matplotlib, Seaborn, SciKitLean Libraries
-- Interactive Elements: Filtering by genre to display related audio feature correlations, filter within the pop genre musical keys
+- Tools Used: Tableau, Python Matplotlib, Seaborn, Scikit-learn Libraries
+- Interactive Elements: Filtering by year to display the audio feature distribution over time
 
