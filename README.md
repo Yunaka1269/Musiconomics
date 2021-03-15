@@ -10,9 +10,12 @@ We decided on this topic due to all team members' mutual interest in music and c
 
 
 ## Data Sources
-Data from Kaggle [linked here](https://www.kaggle.com/ironicninja/icm-problem-d "linked here")
-include files: data_by_artist.csv, data_by_genres.csv, data_by_year.csv and data_w_genres.csv 
-
+Data from Kaggle [linked here](https://www.kaggle.com/ironicninja/icm-problem-d "linked here") titled "The Influence of Music, Spotify and AllMusic Data" includes files:
+- music_genre.csv
+- influence_df.csv
+- prediction.csv
+- data_by_artist.csv
+- data_by_year.csv 
 
 
 ## Questions
