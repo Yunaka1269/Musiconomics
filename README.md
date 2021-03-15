@@ -19,8 +19,8 @@ Data from Kaggle [linked here](https://www.kaggle.com/ironicninja/icm-problem-d 
 
 
 ## Questions
-- What are the correlations between popularity and audio features?
-- Does the duration of songs change over the years?
+- What are the correlations between genre and audio features over the years?
+- 
 
 # Technologies Used
 
@@ -67,5 +67,5 @@ Scikit-learn is the ML library we'll be using to create a classifier.
 ## Dashboard
 We intend to use Tableau as our dashboard, with additional visualizations from Python libraries, to present the data visualizations created throughout the course of this project.  The storyboard of the dashboard is included in the Google Slides presentation linked above. 
 - Tools Used: Tableau, Python Matplotlib, Seaborn, Scikit-learn Libraries
-- Interactive Elements: Filtering by genre to display related audio feature correlations, filter within the pop genre musical keys
+- Interactive Elements: Filtering by year to display the audio feature distribution over time
 
