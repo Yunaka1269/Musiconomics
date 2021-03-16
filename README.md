@@ -19,8 +19,10 @@ Data from Kaggle [linked here](https://www.kaggle.com/ironicninja/icm-problem-d 
 
 
 ## Questions
-- What are the correlations between genre and audio features over the years?
-- 
+- What are the correlations between genre and audio features from the past 100 years?
+- What music eras are considered?
+- What variables are found in the Spotify data?
+- What insights are drawn from correlation analysis?
 
 # Technologies Used
 
