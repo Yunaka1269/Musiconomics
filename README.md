@@ -64,7 +64,7 @@ Joins - In the coming week, further analysis needs to be performed to understand
 
 
 ## Machine Learning
-Compare accuracy on following Scikit-learn Machine Learning models and determine which one returns the best performance. 
+Compare accuracy rate on following Scikit-learn Machine Learning models and determine which one returns the best performance. The analysis is based on songs (data) released after year 2000 onwards.
 - RandomForest Classifier
 - Gradient Boost
 - SVM
