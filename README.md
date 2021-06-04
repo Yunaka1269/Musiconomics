@@ -64,7 +64,12 @@ Joins - In the coming week, further analysis needs to be performed to understand
 
 
 ## Machine Learning
-Scikit-learn is the ML library we'll be using to create a classifier. 
+Compare accuracy on following Scikit-learn Machine Learning models and determine which one returns the best performance. 
+- RandomForest Classifier
+- Gradient Boost
+- SVM
+- Logistic Regression
+- DecisionTree Classifier
 
 
 ## Dashboard
