@@ -1,6 +1,6 @@
 # Final_Project: Musiconomics
 
-Please visit this [link to the tableau dashboard](https://public.tableau.com/views/Group_16156329936470/Avg_Popularity_Year?:language=en&:display_count=y&:origin=viz_share_link)
+Please visit this [link to the tableau dashboard](https://public.tableau.com/views/Group_16156329936470/Audio_Features_Year?:language=en&:display_count=y&:origin=viz_share_link "link to tableau dashboard" )
 and [link to the Google Slides](https://docs.google.com/presentation/d/1p_Z2Gktkt6Z4mRQBZBdKG34dpdG-liZxhFf-hvlsZvU/edit?usp=sharing?publish=yes "link to Google Slides") for presentation content.
 
 ## Topic 
